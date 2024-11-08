@@ -110,12 +110,9 @@ The project includes robust data handling:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Stone Werner - stonewerner.com
 
-Project Link: [https://github.com/yourusername/brain-tumor-classification](https://github.com/yourusername/brain-tumor-classification)
+Project Link: [https://github.com/stonewerner/brain-tumor-ML](https://github.com/stonewerner/brain-tumor-ML)
